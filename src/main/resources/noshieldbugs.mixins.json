@@ -1,0 +1,7 @@
+{
+	"required": false,
+	"package": "com.noshieldbugs.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": ["AvatarRendererMixin", "LivingEntitySwingMixin"],
+	"injectors": { "defaultRequire": 0 }
+}
